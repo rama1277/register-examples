@@ -1,0 +1,50 @@
+/* design bagian index */
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* design bagian register */
+body {
+    background-color: rgb(83, 114, 215);
+}
+
+.main {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-content h1 {
+    text-align: center;
+    margin-top: 0;
+}
+
+.div-box {
+    border: solid 1px;
+    width: 500px;
+    padding: 25px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+form div {
+    margin-bottom: 20px;
+}
+
+form label {
+    display: block;
+    font-size: 20px;
+}
+
+form input {
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 20px;
+    line-height: 1.8;
+}
